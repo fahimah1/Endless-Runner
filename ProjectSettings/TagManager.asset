@@ -3,16 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - CleanUp
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Platforms
+  - 
   - Water
   - UI
-  - Ground
+  - 
   - 
   - 
   - 
