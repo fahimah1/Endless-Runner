@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask whatIsGround;
     public float maxSpeed;
     public float jumpHeight = 100.0f;
+    public Animator anim;
 
     bool isOnGround = false;
 
